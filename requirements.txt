@@ -91,7 +91,7 @@ lightgbm==3.3.2
 llvmlite==0.36.0
 locket==0.2.1
 Mako==1.1.6
-MarkupSafe==1.1.1
+MarkupSafe>2.0
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
 mccabe==0.6.1
