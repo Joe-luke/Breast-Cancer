@@ -1,4 +1,4 @@
-﻿alembic==1.7.6
+alembic==1.7.6
 altair==4.1.0
 anyio==3.5.0
 appdirs==1.4.4
@@ -113,7 +113,7 @@ nltk==3.7
 notebook==6.4.3
 numba==0.55.1
 numexpr==2.8.1
-numpy==1.19.5
+numpy>1.7.1
 oauthlib==3.1.1
 olefile==0.46
 packaging==21.3
