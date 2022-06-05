@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("BCancer")
+st.title("Breast Cancer Detection App")
 
 
 def get_predictions(radius_mean, texture_mean, perimeter_mean, area_mean, smoothness_mean, compactness_mean,concavity_mean, concave_points_mean, symmetry_mean, fractal_dimension_mean, radius_se, texture_se, perimeter_se, area_se, smoothness_se, compactness_se, concavity_se, concave_points_se, symmetry_se, fractal_dimension_se, radius_worst,
