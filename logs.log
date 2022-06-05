@@ -6,3 +6,5 @@
 2022-02-25 10:45:07,574:INFO:load_model(model_name=Breast-Cancer-Pipline, platform=None, authentication=None, verbose=True)
 2022-02-25 10:45:50,772:INFO:Initializing load_model()
 2022-02-25 10:45:50,773:INFO:load_model(model_name=Breast-Cancer-Pipline, platform=None, authentication=None, verbose=True)
+2022-06-05 09:15:26,901:INFO:Initializing load_model()
+2022-06-05 09:15:26,902:INFO:load_model(model_name=Breast-Cancer-Pipline, platform=None, authentication=None, verbose=True)
